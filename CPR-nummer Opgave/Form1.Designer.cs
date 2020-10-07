@@ -77,9 +77,10 @@
             // tbValidCPR
             // 
             this.tbValidCPR.Location = new System.Drawing.Point(63, 161);
+            this.tbValidCPR.Multiline = true;
             this.tbValidCPR.Name = "tbValidCPR";
             this.tbValidCPR.ReadOnly = true;
-            this.tbValidCPR.Size = new System.Drawing.Size(108, 20);
+            this.tbValidCPR.Size = new System.Drawing.Size(135, 60);
             this.tbValidCPR.TabIndex = 4;
             // 
             // CPRGenerator

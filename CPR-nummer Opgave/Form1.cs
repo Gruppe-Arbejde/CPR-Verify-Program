@@ -33,11 +33,7 @@ namespace CPR_nummer_Opgave
                 bool tst = Regex.IsMatch(cpr, pattern);
 
                 string N1 = cpr.Substring(0, 1);
-                Int32.TryParse(N1, out int numValue);
-
-                int N1_1 = N1;
-                int.TryParse(N1, 2, out N1_1);
-                int N1_12 = N1_1;
+                int.Parse(N1);                
                 
                 string N2 = cpr.Substring(1, 1);
                 string N3 = cpr.Substring(2, 1);

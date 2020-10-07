@@ -1,0 +1,10 @@
+C:\Users\maxim\OneDrive - TEC\2. G\PROGRAMMERING\Repos\CPR-nummer Opgave\CPR-nummer Opgave\bin\Debug\CPR-nummer Opgave.exe.config
+C:\Users\maxim\OneDrive - TEC\2. G\PROGRAMMERING\Repos\CPR-nummer Opgave\CPR-nummer Opgave\bin\Debug\CPR-nummer Opgave.exe
+C:\Users\maxim\OneDrive - TEC\2. G\PROGRAMMERING\Repos\CPR-nummer Opgave\CPR-nummer Opgave\bin\Debug\CPR-nummer Opgave.pdb
+C:\Users\maxim\OneDrive - TEC\2. G\PROGRAMMERING\Repos\CPR-nummer Opgave\CPR-nummer Opgave\obj\Debug\CPR-nummer Opgave.csprojAssemblyReference.cache
+C:\Users\maxim\OneDrive - TEC\2. G\PROGRAMMERING\Repos\CPR-nummer Opgave\CPR-nummer Opgave\obj\Debug\CPR_nummer_Opgave.CPRGenerator.resources
+C:\Users\maxim\OneDrive - TEC\2. G\PROGRAMMERING\Repos\CPR-nummer Opgave\CPR-nummer Opgave\obj\Debug\CPR_nummer_Opgave.Properties.Resources.resources
+C:\Users\maxim\OneDrive - TEC\2. G\PROGRAMMERING\Repos\CPR-nummer Opgave\CPR-nummer Opgave\obj\Debug\CPR-nummer Opgave.csproj.GenerateResource.cache
+C:\Users\maxim\OneDrive - TEC\2. G\PROGRAMMERING\Repos\CPR-nummer Opgave\CPR-nummer Opgave\obj\Debug\CPR-nummer Opgave.csproj.CoreCompileInputs.cache
+C:\Users\maxim\OneDrive - TEC\2. G\PROGRAMMERING\Repos\CPR-nummer Opgave\CPR-nummer Opgave\obj\Debug\CPR-nummer Opgave.exe
+C:\Users\maxim\OneDrive - TEC\2. G\PROGRAMMERING\Repos\CPR-nummer Opgave\CPR-nummer Opgave\obj\Debug\CPR-nummer Opgave.pdb

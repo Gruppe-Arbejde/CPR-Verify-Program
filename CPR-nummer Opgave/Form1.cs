@@ -20,57 +20,78 @@ namespace CPR_nummer_Opgave
 
         private void buttonCPR_Click(object sender, EventArgs e)
         {
+            int c0 = 0;
+            int c1 = 0;
+            int c2 = 0;
+            int c3 = 0;
+            int c4 = 0;
+            int c5 = 0;
+            int c6 = 0;
+            int c7 = 0;
+            int c8 = 0;
+            int c9 = 0;
             string pattern = "^[0-9]";
 
-            string cpr = tbCPR1.Text; 
+            string cpr = tbCPR1.Text;
 
-            string[] cprr = (string[])cpr.Clone();
-
-            cprr.Select(N1 => 0 * 4);
-
-            try
+            if (!cpr.Contains("-"))
+                tbValidCPR.Text = $"CPR-nummer {cpr} kan være ugyldigt - Bruger har tastet forkert, mangler evt. bindestreg.";
+            else if (cpr.Length < 11)
+                tbValidCPR.Text = $"CPR-nummer {cpr} kan være ugyldigt - Bruger har ikke skrevet et fuldt CPR-nummer (11-cifre).";
+            else if (cpr.Length > 11)
+                tbValidCPR.Text = $"CPR-nummer {cpr} kan være ugyldigt - Bruger har skrevet for mange cifre CPR-nummer (+11-cifre).";
+            else
             {
-                bool tst = Regex.IsMatch(cpr, pattern);
-
-                string N1 = cpr.Substring(0, 1);
-                int.Parse(N1);                
-                
-                string N2 = cpr.Substring(1, 1);
-                string N3 = cpr.Substring(2, 1);
-                string N4 = cpr.Substring(3, 1);
-                string N5 = cpr.Substring(4, 1);
-                string N6 = cpr.Substring(5, 1);
-                string N7 = cpr.Substring(6, 1);
-                string N8 = cpr.Substring(7, 1);
-                string N9 = cpr.Substring(8, 1);
-                string N10 = cpr.Substring(9, 1);
-
-
-                //string date = cpr.Substring(0, 2);
-                //string month = cpr.Substring(2, 2);
-                //string year = cpr.Substring(4, 2);
-
-
-                if ((string.Compare(cpr.Substring(6, 1), "-") == 0) & (cpr.Length == 11) & (cpr.Trim().Length == cpr.Length))
+                for (int i = 0; i < cpr.Length; i++)
                 {
-                    tbValidCPR.Text = $"CPR-nummer {cpr} kan være gyldig.";
-
-                    //foreach (var item in cprrr)
-                    //{
-                    //    tbValidCPR.Text = (item);
-                    //}
+                    var c = cpr[i];
+                    if (Regex.IsMatch(c.ToString(), pattern))
+                    {
+                        switch (i)
+                        {
+                            case 0:
+                                c0 = Convert.ToInt32(Char.GetNumericValue(c)) * 4;
+                                break;
+                            case 1:
+                                c1 = Convert.ToInt32(Char.GetNumericValue(c)) * 3;
+                                break;
+                            case 2:
+                                c2 = Convert.ToInt32(Char.GetNumericValue(c)) * 2;
+                                break;
+                            case 3:
+                                c3 = Convert.ToInt32(Char.GetNumericValue(c)) * 7;
+                                break;
+                            case 4:
+                                c4 = Convert.ToInt32(Char.GetNumericValue(c)) * 6;
+                                break;
+                            case 5:
+                                c5 = Convert.ToInt32(Char.GetNumericValue(c)) * 5;
+                                break;
+                            case 7:
+                                c6 = Convert.ToInt32(Char.GetNumericValue(c)) * 4;
+                                break;
+                            case 8:
+                                c7 = Convert.ToInt32(Char.GetNumericValue(c)) * 3;
+                                break;
+                            case 9:
+                                c8 = Convert.ToInt32(Char.GetNumericValue(c)) * 2;
+                                break;
+                            case 10:
+                                c9 = Convert.ToInt32(Char.GetNumericValue(c)) * 1;
+                                break;
+                            default:
+                                break;
+                        }
+                    }
                 }
-                else
-                {
+                int sum = c0 + c1 + c2 + c3 + c4 + c5 + c6 + c7 + c8 + c9;
+                if (sum % 11 == 1)
                     tbValidCPR.Text = $"CPR-nummer {cpr} kan være ugyldigt.";
-                }
+                else
+                    tbValidCPR.Text = $"CPR-nummer {cpr} kan være gyldig.";
+                float check = sum / 11;
+                var personnr = string.Format("{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}{10}", c0, c1, c2, c3, c4, c5, "-", c6, c7, c8, c9);
             }
-            catch (Exception)
-            {
-                tbValidCPR.Text = "Du har ikke indtastet korrekt.";
-            }
-            Console.ReadLine();
-
         }
     }
 }

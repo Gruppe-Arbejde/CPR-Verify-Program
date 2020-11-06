@@ -8,3 +8,17 @@ C:\Users\Maximus Janning Juul\OneDrive - TEC\2. G\PROGRAMMERING\Repos\CPR-nummer
 C:\Users\Maximus Janning Juul\OneDrive - TEC\2. G\PROGRAMMERING\Repos\CPR-nummer-Opgave\CPR-nummer Opgave\obj\Release\CPR-nummer Opgave.csproj.CoreCompileInputs.cache
 C:\Users\Maximus Janning Juul\OneDrive - TEC\2. G\PROGRAMMERING\Repos\CPR-nummer-Opgave\CPR-nummer Opgave\obj\Release\CPR-nummer Opgave.exe
 C:\Users\Maximus Janning Juul\OneDrive - TEC\2. G\PROGRAMMERING\Repos\CPR-nummer-Opgave\CPR-nummer Opgave\obj\Release\CPR-nummer Opgave.pdb
+C:\Users\maxim\OneDrive - TEC\2. G\PROGRAMMERING\Repos\CPR-nummer-Opgave\CPR-nummer Opgave\bin\Release\CPR-nummer Opgave.exe.config
+C:\Users\maxim\OneDrive - TEC\2. G\PROGRAMMERING\Repos\CPR-nummer-Opgave\CPR-nummer Opgave\bin\Release\CPR-nummer Opgave.exe
+C:\Users\maxim\OneDrive - TEC\2. G\PROGRAMMERING\Repos\CPR-nummer-Opgave\CPR-nummer Opgave\bin\Release\CPR-nummer Opgave.pdb
+C:\Users\maxim\OneDrive - TEC\2. G\PROGRAMMERING\Repos\CPR-nummer-Opgave\CPR-nummer Opgave\obj\Release\CPR-nummer Opgave.csprojAssemblyReference.cache
+C:\Users\maxim\OneDrive - TEC\2. G\PROGRAMMERING\Repos\CPR-nummer-Opgave\CPR-nummer Opgave\obj\Release\CPR_nummer_Opgave.CPRGenerator.resources
+C:\Users\maxim\OneDrive - TEC\2. G\PROGRAMMERING\Repos\CPR-nummer-Opgave\CPR-nummer Opgave\obj\Release\CPR_nummer_Opgave.Properties.Resources.resources
+C:\Users\maxim\OneDrive - TEC\2. G\PROGRAMMERING\Repos\CPR-nummer-Opgave\CPR-nummer Opgave\obj\Release\CPR-nummer Opgave.csproj.GenerateResource.cache
+C:\Users\maxim\OneDrive - TEC\2. G\PROGRAMMERING\Repos\CPR-nummer-Opgave\CPR-nummer Opgave\obj\Release\CPR-nummer Opgave.csproj.CoreCompileInputs.cache
+C:\Users\maxim\OneDrive - TEC\2. G\PROGRAMMERING\Repos\CPR-nummer-Opgave\CPR-nummer Opgave\obj\Release\CPR-nummer Opgave.exe
+C:\Users\maxim\OneDrive - TEC\2. G\PROGRAMMERING\Repos\CPR-nummer-Opgave\CPR-nummer Opgave\obj\Release\CPR-nummer Opgave.pdb
+C:\Users\maxim\OneDrive - TEC\2. G\PROGRAMMERING\Repos\CPR-nummer-Opgave\CPR-nummer Opgave\bin\Release\CPR-nummer Opgave.exe.manifest
+C:\Users\maxim\OneDrive - TEC\2. G\PROGRAMMERING\Repos\CPR-nummer-Opgave\CPR-nummer Opgave\bin\Release\CPR-nummer Opgave.application
+C:\Users\maxim\OneDrive - TEC\2. G\PROGRAMMERING\Repos\CPR-nummer-Opgave\CPR-nummer Opgave\obj\Release\CPR-nummer Opgave.exe.manifest
+C:\Users\maxim\OneDrive - TEC\2. G\PROGRAMMERING\Repos\CPR-nummer-Opgave\CPR-nummer Opgave\obj\Release\CPR-nummer Opgave.application

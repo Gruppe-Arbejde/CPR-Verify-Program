@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CPR-nummer Opgave.exe" size="866784">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CPR-nummer Opgave.exe" size="867296">
       <assemblyIdentity name="CPR-nummer Opgave" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>whNO8svIKxq3NvdEpGMaYMAKLqGycUlKLpGqZulV78U=</dsig:DigestValue>
+        <dsig:DigestValue>kH4MKBfHMEqeP54RAf/hallegmDgf7Ce8CXXpRFAgkw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

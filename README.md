@@ -1,18 +1,18 @@
-# CPR-Nummer-Opgave
+# CPR Verify Program
 
-CPR-Nummer is a program developed in windows forms, this program can check whether a specified CPR-Nummer (has to be danish) is one that is legit and might work or not.
+CPR Verify Program is a program developed in windows forms, this program can check whether a specified CPR-Nummer (has to be danish) is one that is legit and might work or not.
 
 ## Installation
 
 1. Download the latest release [here](https://github.com/H-C-Orsted-Programmering/CPR-Verify-Program/releases/tag/1.0) .
-2. Extract the folder to you desktop.
+2. Extract the folder to your desktop.
 3. Open the folder on your desktop and open the file setup.exe and follow the instructions in the setup
 
 ## Usage
 
-After you have folled the installation intructions you can now continue with step 4:
+After you have followed the installation instructions you can now continue with step 4:
 
-4. Open CPR Verify Program from your windows seach bar or desktop logo
+4. Open CPR Verify Program from your windows search bar or desktop logo
 5. Type a social security number you know is legit, and type one you know is fake.
 
 ## Contributing

@@ -1,0 +1,27 @@
+C:\Users\maxim\Documents\GitHub\CPR Verify Program\CPR-nummer Opgave\bin\Debug\CPR Verify Program.exe.config
+C:\Users\maxim\Documents\GitHub\CPR Verify Program\CPR-nummer Opgave\bin\Debug\CPR Verify Program.exe.manifest
+C:\Users\maxim\Documents\GitHub\CPR Verify Program\CPR-nummer Opgave\bin\Debug\CPR Verify Program.application
+C:\Users\maxim\Documents\GitHub\CPR Verify Program\CPR-nummer Opgave\bin\Debug\CPR Verify Program.exe
+C:\Users\maxim\Documents\GitHub\CPR Verify Program\CPR-nummer Opgave\bin\Debug\CPR Verify Program.pdb
+C:\Users\maxim\Documents\GitHub\CPR Verify Program\CPR-nummer Opgave\obj\Debug\CPR_Verify_Program.CPRGenerator.resources
+C:\Users\maxim\Documents\GitHub\CPR Verify Program\CPR-nummer Opgave\obj\Debug\CPR_Verify_Program.Properties.Resources.resources
+C:\Users\maxim\Documents\GitHub\CPR Verify Program\CPR-nummer Opgave\obj\Debug\CPR Verify Program.csproj.GenerateResource.cache
+C:\Users\maxim\Documents\GitHub\CPR Verify Program\CPR-nummer Opgave\obj\Debug\CPR Verify Program.csproj.CoreCompileInputs.cache
+C:\Users\maxim\Documents\GitHub\CPR Verify Program\CPR-nummer Opgave\obj\Debug\CPR Verify Program.exe.manifest
+C:\Users\maxim\Documents\GitHub\CPR Verify Program\CPR-nummer Opgave\obj\Debug\CPR Verify Program.application
+C:\Users\maxim\Documents\GitHub\CPR Verify Program\CPR-nummer Opgave\obj\Debug\CPR Verify Program.exe
+C:\Users\maxim\Documents\GitHub\CPR Verify Program\CPR-nummer Opgave\obj\Debug\CPR Verify Program.pdb
+C:\Users\maxim\Documents\GitHub\CPR Verify Program\CPR Verify Program\bin\Debug\CPR Verify Program.exe.config
+C:\Users\maxim\Documents\GitHub\CPR Verify Program\CPR Verify Program\bin\Debug\CPR Verify Program.exe.manifest
+C:\Users\maxim\Documents\GitHub\CPR Verify Program\CPR Verify Program\bin\Debug\CPR Verify Program.application
+C:\Users\maxim\Documents\GitHub\CPR Verify Program\CPR Verify Program\bin\Debug\CPR Verify Program.exe
+C:\Users\maxim\Documents\GitHub\CPR Verify Program\CPR Verify Program\bin\Debug\CPR Verify Program.pdb
+C:\Users\maxim\Documents\GitHub\CPR Verify Program\CPR Verify Program\obj\Debug\CPR Verify Program.csprojAssemblyReference.cache
+C:\Users\maxim\Documents\GitHub\CPR Verify Program\CPR Verify Program\obj\Debug\CPR_Verify_Program.CPRGenerator.resources
+C:\Users\maxim\Documents\GitHub\CPR Verify Program\CPR Verify Program\obj\Debug\CPR_Verify_Program.Properties.Resources.resources
+C:\Users\maxim\Documents\GitHub\CPR Verify Program\CPR Verify Program\obj\Debug\CPR Verify Program.csproj.GenerateResource.cache
+C:\Users\maxim\Documents\GitHub\CPR Verify Program\CPR Verify Program\obj\Debug\CPR Verify Program.csproj.CoreCompileInputs.cache
+C:\Users\maxim\Documents\GitHub\CPR Verify Program\CPR Verify Program\obj\Debug\CPR Verify Program.exe.manifest
+C:\Users\maxim\Documents\GitHub\CPR Verify Program\CPR Verify Program\obj\Debug\CPR Verify Program.application
+C:\Users\maxim\Documents\GitHub\CPR Verify Program\CPR Verify Program\obj\Debug\CPR Verify Program.exe
+C:\Users\maxim\Documents\GitHub\CPR Verify Program\CPR Verify Program\obj\Debug\CPR Verify Program.pdb

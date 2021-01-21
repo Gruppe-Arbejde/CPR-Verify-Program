@@ -1,6 +1,6 @@
 # CPR Verify Program
 
-CPR Verify Program is a program developed in windows forms, this program can check whether a specified CPR-Nummer (has to be danish) is one that is legit and might work or not.
+CPR Verify Program is a program developed in windows forms, this program can check whether a specified social security number (has to be danish) is one that is legit and might work or not.
 
 ## Installation
 

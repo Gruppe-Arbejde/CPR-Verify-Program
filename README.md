@@ -4,21 +4,16 @@ CPR-Nummer is a program developed in windows forms, this program can check wheth
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
+1. Download the latest release [here](https://github.com/H-C-Orsted-Programmering/CPR-Verify-Program/releases/tag/1.0) .
+2. Extract the folder to you desktop.
+3. Open the folder on your desktop and open the file setup.exe and follow the instructions in the setup
 
 ## Usage
 
-```python
-import foobar
+After you have folled the installation intructions you can now continue with step 4:
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
+4. Open CPR Verify Program from your windows seach bar or desktop logo
+5. Type a social security number you know is legit, and type one you know is fake.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
